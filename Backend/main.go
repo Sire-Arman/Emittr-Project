@@ -13,6 +13,7 @@ func main() {
 	r := mux.NewRouter()
 
 	// User Authentication Endpoints
+	r.HandleFunc("/", handlers.Home).Methods("GET")
 	r.HandleFunc("/register", handlers.Register).Methods("POST")
 	r.HandleFunc("/login", handlers.Login).Methods("POST")
 
