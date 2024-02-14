@@ -1,9 +1,19 @@
-﻿# Emittr-Project
+   ![image](https://github.com/Sire-Arman/Emittr-Project/assets/105731322/ac7b6123-9e85-4a07-85c1-f6372ce55270)
+
+ # Emittr-Project- Exploding Kittens
 ## Available Scripts
 
 ### This Website is designed and developed by Arman Siddiqui.
 
 ### `npm install`
+###Snapshots of the game
+![image](https://github.com/Sire-Arman/Emittr-Project/assets/105731322/0d869d5c-8f53-493a-bdf9-9e553126c40a)
+![image](https://github.com/Sire-Arman/Emittr-Project/assets/105731322/aa270304-02bd-4775-8473-7abb7bdf6107)
+![image](https://github.com/Sire-Arman/Emittr-Project/assets/105731322/b0529ca1-6b09-4a44-baec-63632b774d34)
+![image](https://github.com/Sire-Arman/Emittr-Project/assets/105731322/7928000a-14e1-4d7b-ab8a-cc7841a0d2a6)
+
+
+
 
 ### Contact for more information 
 [https://www.linkedin.com/in/arman-siddiqui-07495a226/]
